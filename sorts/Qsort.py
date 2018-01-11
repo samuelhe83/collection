@@ -1,7 +1,7 @@
 #The Quicksort.
 #Time-complexity: W [O(n^2)], Avg [O(n * log(n))], B [O(n * log(n))]
 
-#Notes: This is a high performance comparative sort that performs well for an average case scenario (some duplicates in list).  Its worst case scenario is when there are absolutely no duplicates in the list, which will require comparison against each element for each element (producing a time complexity of O(n^2)).
+#Notes: This is a relatively high performance comparative sort that performs well for an average case scenario (some duplicates in list).  Its worst case scenario is when there are absolutely no duplicates in the list, which will require comparison against each element for each element (producing a time complexity of O(n^2)).
 
 #This sort comes in two varities:
 	#The in-place sorts:
